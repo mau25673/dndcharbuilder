@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>icons/creatorphoto.png</file>
-    </qresource>
-    <qresource prefix="/icons">
-        <file>icons/dnd-icon.png</file>
-    </qresource>
-</RCC>
