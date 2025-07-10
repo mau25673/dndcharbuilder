@@ -1,0 +1,14 @@
+release/background.o
+release/character.o
+release/characterclass.o
+release/clericspelllist.o
+release/creatorscreen.o
+release/main.o
+release/mainwindow.o
+release/species.o
+release/wizardspelllist.o
+release/qrc_icons.o
+release/moc_clericspelllist.o
+release/moc_creatorscreen.o
+release/moc_mainwindow.o
+release/moc_wizardspelllist.o

@@ -1,0 +1,14 @@
+debug/background.o
+debug/character.o
+debug/characterclass.o
+debug/clericspelllist.o
+debug/creatorscreen.o
+debug/main.o
+debug/mainwindow.o
+debug/species.o
+debug/wizardspelllist.o
+debug/qrc_icons.o
+debug/moc_clericspelllist.o
+debug/moc_creatorscreen.o
+debug/moc_mainwindow.o
+debug/moc_wizardspelllist.o
